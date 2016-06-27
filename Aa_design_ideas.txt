@@ -1,0 +1,150 @@
+<<<A short future history of the universe that was>>>
+
+"Delve into the vaults of The Archive and uncover the history of tomorrow!"
+
+>>World Gen
+  vary room size a shape based on map type
+  collapse some rooms at gen in ruined maps?
+  additional environment objects
+  security cameras/sensors
+  >>enemies
+    pre-defined squads
+    define classes and attack patterns
+    special attacks
+
+>>Enemies
+  Staff
+  >>Librarian
+    archive technician
+    janitor
+    security
+    tour guide
+  exhibits
+  >>romans
+    vikings
+    nazis
+    nazi-zombies
+    red coats
+    cave men
+    aliens
+
+
+>>VI units as companions
+  upgradable
+  multiple models
+  look at including AI of some kind
+
+>>Tech equipment instead of spells
+  IR goggles {remove block_sight parameter}
+  hack vi units to gain FOV
+  shield
+  stun
+  distract
+  battery power
+  multiple power sources?
+  viruses that infect VIs and other tech
+
+>>'home' level that is the gift shop
+  collectable artefacts that give buffs
+  easter eggs
+  configure the archive
+  data sphere use?
+  equipment locker
+
+>>class system
+  default is Librarian in training
+  can retrain in other specialities
+  >>hacker
+    tourist
+    information broker
+    detective
+    journalist
+    janitor
+    scientist
+
+>>weapons
+  close range
+	historical
+	improvised
+	personal defense
+  guns
+  VI based
+  tech/hacks
+  environment
+
+>>merchants in the gift shop
+  conversations
+  hacking system
+  persuasion
+
+>>maps
+  world types
+  start simple but then allow blending
+  >>create a worlds folder for persistant world availability?
+    turn on/off at player request
+    >>Nomad mode vs Universe mode
+
+
+#################################################################################################################################
+#################################################################################################################################
+
+
+'''
+######################
+## <--> Symbol List ##
+######################
+
+@ = player character
+% = corpse
+& = drone
+; = grenade / throwable
+: = 
+. = 
+, = 
+# = software
+£ = 
+$ = credits
+! = bottle/liquid
+^ = clothing
+" =
+~ = 
+? = information point
+* = computer terminal
++ = door (closed)
+= = door (locked)
+- = door (open)
+| = 
+<,> = elevator
+{} = weapons
+[] = armour
+() =
+/\ =
+
+a                         A - Agents
+b                         B
+c                         C - Curator
+d - dogs                  D
+e                         E
+f                         F
+g                         G
+h                         H
+i                         I
+j                         J - janitor
+k                         K
+l                         L - librarian
+m                         M
+n                         N
+o                         O
+p                         P
+q                         Q
+r -                       R - robots
+s - security              S
+t                         T
+u                         U
+v -                       V
+w                         W
+x                         X
+y                         Y
+z                         Z
+
+'''
